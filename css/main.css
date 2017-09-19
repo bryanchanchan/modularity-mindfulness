@@ -9,3 +9,29 @@ i {
 li a {
   color: #b64c6e;
 }
+
+.btn-ghost {
+  border-color: #d89fb0;
+}
+
+.btn:hover {
+  color: #860927;
+  background-color: #d89fb0;
+  border-color: #860927;
+}
+
+.btn {
+  color: #b64c6e;
+}
+
+small {
+  color: #e2e2e2;
+}
+
+
+@media only screen and (min-width: 60em) {
+
+  h1, h2 {
+
+  }
+}
